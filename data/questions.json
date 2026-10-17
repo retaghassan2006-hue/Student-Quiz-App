@@ -1,0 +1,71 @@
+[{
+        "id": 1,
+        "question": "What does HTML stand for?",
+        "choices": [
+            "Hyper Text Markup Language",
+            "High Tech Modern Language",
+            "Hyper Transfer Markup Link",
+            "Home Tool Markup Language"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "choices": ["<link>", "<href>", "<a>", "<url>"],
+        "correctAnswer": 2
+    },
+    {
+        "id": 3,
+        "question": "Which HTML tag is used for the largest heading?",
+        "choices": ["<h6>", "<h1>", "<head>", "<heading>"],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "Which HTML attribute specifies an image's source file?",
+        "choices": ["href", "alt", "link", "src"],
+        "correctAnswer": 3
+    },
+    {
+        "id": 5,
+        "question": "Which HTML tag is used to create an unordered (bulleted) list?",
+        "choices": ["<ul>", "<ol>", "<li>", "<list>"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 6,
+        "question": "What does CSS stand for?",
+        "choices": [
+            "Creative Style Sheets",
+            "Cascading Style Sheets",
+            "Computer Style Sheets",
+            "Colorful Style System"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "question": "Which CSS property changes the text color?",
+        "choices": ["font-color", "text-style", "background-color", "color"],
+        "correctAnswer": 3
+    },
+    {
+        "id": 8,
+        "question": "Which CSS property adds space inside an element's border?",
+        "choices": ["padding", "margin", "spacing", "border-space"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 9,
+        "question": "How do you select an element with the id \"main\" in CSS?",
+        "choices": [".main", "main", "*main", "#main"],
+        "correctAnswer": 3
+    },
+    {
+        "id": 10,
+        "question": "Which CSS property is used to change the font size?",
+        "choices": ["text-size", "font-size", "font-style", "size"],
+        "correctAnswer": 1
+    }
+]
